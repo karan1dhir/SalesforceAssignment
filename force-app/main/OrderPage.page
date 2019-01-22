@@ -1,0 +1,50 @@
+<apex:page controller="makeOrder">
+    <apex:form id="PagePanel">
+        <apex:commandButton value="Add Order" action="{!addPage}" reRender="PagePanel" style="float:right"></apex:commandButton>
+        <apex:repeat value="{!productOrderWrapperList}" var="order" rendered="{!productOrderWrapperList.size >0}">
+            <apex:pageblock title="Order Page">
+                <apex:commandButton value="Add Product" action="{!order.addSection}" style="float:right" reRender="sectionPanel" />
+                <apex:outputPanel id="sectionPanel">
+                    <apex:repeat value="{!order.productLineItemWrapperList}" var="product" rendered="{!order.productLineItemWrapperList.size >0}">
+                        <apex:pageBlock title="Product Details">
+                            <apex:pageblockSection title="Enter product Details">
+                                <apex:inputField value="{!product.productItem.MyProduct__c}" />
+                            </apex:pageblockSection>
+                            <apex:commandLink value="Delete Product" action="{!order.deleteProduct}" style="float:right">
+                                <apex:param value="{!product.productItem.MyProduct__c}" assignTo="{!ProductID}" name="ProductID"></apex:param>
+                            </apex:commandLink>
+                        </apex:pageBlock>
+                    </apex:repeat>
+                    <apex:pageblock title="Product Details on page">
+                        <apex:pageBlockSection title="Enter Product Details">
+                            <apex:inputField value="{!order.productLineItemWrapperObj.productItem.MyProduct__c}"></apex:inputField>
+                        </apex:pageBlockSection>
+                    </apex:pageblock>
+                </apex:outputPanel>
+            </apex:pageblock>
+        </apex:repeat>
+        <apex:pageblock title="Order Page">
+            <apex:commandButton value="Add Product" action="{!productOrderWrapperObj.addSection}" style="float:right" reRender="sectionPanel"></apex:commandButton>
+            <apex:outputPanel id="sectionPanel">
+                <apex:repeat value="{!productOrderWrapperObj.productLineItemWrapperList}" var="product" rendered="{!productOrderWrapperObj.productLineItemWrapperList.size >0}">
+                    <apex:pageblock title="Product Details">
+                        <apex:pageBlockSection title="Enter Product Details">
+                            <apex:inputField value="{!product.productItem.MyProduct__c}"></apex:inputField>
+                        </apex:pageBlockSection>
+                        <apex:commandLink value="Delete Product" action="{!productOrderWrapperObj.deleteProduct}" style="float:right">
+                            <apex:param value="{!product.productItem.MyProduct__c}" assignTo="{!ProductID}" name="ProductID"></apex:param>
+                        </apex:commandLink>
+                    </apex:pageblock>
+                </apex:repeat>
+                <apex:pageblock title="Product Details on page">
+                    <apex:pageBlockSection title="Enter Product Details">
+                        <apex:inputField value="{!productOrderWrapperObj.productLineItemWrapperObj.productItem.MyProduct__c}"></apex:inputField>
+                    </apex:pageBlockSection>
+                </apex:pageblock>
+            </apex:outputPanel>
+        </apex:pageblock>
+        <center>
+            <apex:commandButton value="Save Order" action="{!saveOrder}"></apex:commandButton>
+        </center>
+    </apex:form>
+</apex:page>

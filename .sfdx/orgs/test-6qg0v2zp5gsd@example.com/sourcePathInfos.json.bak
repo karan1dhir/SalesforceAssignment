@@ -1,0 +1,568 @@
+[
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972846275,
+            "changeTime": 1547972846275,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972846275,
+            "changeTime": 1547972846275,
+            "contentHash": "ca19b3e8d1aa621e28606020a602a69194e56cb5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052777,
+            "changeTime": 1547972052777,
+            "contentHash": "1fa939509cbc407ab841701af2333438d6382101",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547828487141,
+            "changeTime": 1547830965845,
+            "contentHash": "c25108dbfa2423e00680166066f1a88b5d672bf8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\MapProductToOrder__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\MapProductToOrder__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2043,
+            "modifiedTime": 1547972052706,
+            "changeTime": 1547972052706,
+            "contentHash": "ae5b911478e797df019d2165c5c038be49c568c6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\fields\\MyProduct__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\fields\\MyProduct__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 527,
+            "modifiedTime": 1547972052708,
+            "changeTime": 1547972052708,
+            "contentHash": "73c546780a49b5eedc27f894ce16cc4b7596e416",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1547972052713,
+            "changeTime": 1547972052713,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyOrder__c\\MyOrder__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyOrder__c\\MyOrder__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2013,
+            "modifiedTime": 1547972052722,
+            "changeTime": 1547972052722,
+            "contentHash": "091d035c3a6c7a4b2d27ccfe938685cb6738026d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyOrder__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyOrder__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1547972052723,
+            "changeTime": 1547972052723,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyProduct__c\\MyProduct__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyProduct__c\\MyProduct__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2019,
+            "modifiedTime": 1547972052732,
+            "changeTime": 1547972052732,
+            "contentHash": "5c271ef030bea77b48bfe60c0b016438cc5cabc4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyProduct__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyProduct__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1547972052733,
+            "changeTime": 1547972052733,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\layouts\\MyOrder__c-MyOrder Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\layouts\\MyOrder__c-MyOrder Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1947,
+            "modifiedTime": 1547972052742,
+            "changeTime": 1547972052742,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\layouts\\MapProductToOrder__c-MapProductToOrder Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\layouts\\MapProductToOrder__c-MapProductToOrder Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2086,
+            "modifiedTime": 1547972052749,
+            "changeTime": 1547972052749,
+            "contentHash": "389a00da9d2f3070a3398d1815b203498554d3b2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\layouts\\MyProduct__c-MyProduct Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\layouts\\MyProduct__c-MyProduct Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2085,
+            "modifiedTime": 1547972052755,
+            "changeTime": 1547972052755,
+            "contentHash": "869364f7bddb28f525d72513a6b52bd832108e78",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\tabs\\MyOrder__c.tab-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\tabs\\MyOrder__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1547972052759,
+            "changeTime": 1547972052759,
+            "contentHash": "27ae16900e378cc5cff484561347e8963cd32234",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\tabs\\MapProductToOrder__c.tab-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\tabs\\MapProductToOrder__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1547972052761,
+            "changeTime": 1547972052761,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\tabs\\MyProduct__c.tab-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\tabs\\MyProduct__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1547972052764,
+            "changeTime": 1547972052764,
+            "contentHash": "ddeae5eadbf9e422cad0188d1418fd25bc244096",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5183,
+            "modifiedTime": 1547972052781,
+            "changeTime": 1547972052781,
+            "contentHash": "3a90c7c705ad668c075960f082c0517f555dd41e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5183,
+            "modifiedTime": 1547972052788,
+            "changeTime": 1547972052788,
+            "contentHash": "3a90c7c705ad668c075960f082c0517f555dd41e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5521,
+            "modifiedTime": 1547972052799,
+            "changeTime": 1547972052799,
+            "contentHash": "49bc0663b4501eea391588b5a6bb682f03de96bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19730,
+            "modifiedTime": 1547972052815,
+            "changeTime": 1547972052815,
+            "contentHash": "9092fdf0ee4771b8b15dc4916b44e47c5b424d2b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052711,
+            "changeTime": 1547972052711,
+            "contentHash": "edceb012ae690aba168970fd72f82981901b95b9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052730,
+            "changeTime": 1547972052730,
+            "contentHash": "eca5c13448469b8641103904a923465e9b6310cd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\fields",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052707,
+            "changeTime": 1547972052707,
+            "contentHash": "8befa214ad24a30110efbfc4b46e21e3603b329a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\listViews",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MapProductToOrder__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052711,
+            "changeTime": 1547972052711,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyOrder__c",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyOrder__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052722,
+            "changeTime": 1547972052722,
+            "contentHash": "d9fe9b020d4ca7010a05252cae72ba28cccefa86",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyOrder__c\\listViews",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyOrder__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052722,
+            "changeTime": 1547972052722,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyProduct__c",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyProduct__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052732,
+            "changeTime": 1547972052732,
+            "contentHash": "2180f09d169f05abe90f3bda269ac067001004e3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyProduct__c\\listViews",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\objects\\MyProduct__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052732,
+            "changeTime": 1547972052732,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052754,
+            "changeTime": 1547972052754,
+            "contentHash": "c2a54968e6a0b964e4e3596f9e67f15706dc4329",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052764,
+            "changeTime": 1547972052764,
+            "contentHash": "6f3d962be50b1481d7d3a750054e24a53445654b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547972052814,
+            "changeTime": 1547972052814,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\CustomWrapper.cls",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\CustomWrapper.cls",
+            "isDirectory": false,
+            "size": 84,
+            "modifiedTime": 1548063406103,
+            "changeTime": 1548063406103,
+            "contentHash": "92f05a32b8c03fd9900e70b7d1d015067dbefd89",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\CustomWrapper.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\CustomWrapper.cls-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1547972815740,
+            "changeTime": 1547972815740,
+            "contentHash": "5d5fe43f889b939ec90c89c6233054f6352da61c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\makeOrder.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\makeOrder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2441,
+            "modifiedTime": 1548064830390,
+            "changeTime": 1548064830390,
+            "isWorkspace": false,
+            "contentHash": "6c008915a78b16ed5d70945b4ae191f52ce238ae"
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\makeOrder.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\makeOrder.cls-meta.xml",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1547972846277,
+            "changeTime": 1547972846277,
+            "contentHash": "c7226628f4ba74b2490145cef7b97165eff95699",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\OrderPage.page",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\OrderPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1666,
+            "modifiedTime": 1548064967236,
+            "changeTime": 1548064967236,
+            "isWorkspace": false,
+            "contentHash": "eed071d25c0f03a2cab07e3b601e27b7e0c7845a"
+        }
+    ],
+    [
+        "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\OrderPage.page-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\karandhir\\TestingApplication\\force-app\\main\\OrderPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1547972622082,
+            "changeTime": 1547972622082,
+            "contentHash": "a56373a289fbdfd2511cfc0953dae545688fb6a2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ]
+]
